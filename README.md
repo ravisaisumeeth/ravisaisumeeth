@@ -10,8 +10,8 @@
 ## 💡 About Me
 
 - 🎓 Master’s in Information Systems (Data Science) @ University of Florida  
-- 💼 3+ years in Consulting & Data Engineering @ Capgemini  
-- 🛠️ Experience in ETL Pipelines, ERP Systems, ML Models & Dashboards  
+- 💼 3+ years in Data Consulting @ Capgemini  
+- 🛠️ Experience in ETL Pipelines, ERP Systems, ML & AI Models & Dashboards  
 - 📊 Passionate about transforming data into decisions  
 - 🌎 Open to relocate & collaborate on meaningful data-driven projects  
 
