@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi there, I'm Sai Sumeeth Ravi 👋</h1>
+<h1 align="center"> I'm Sai Sumeeth Ravi </h1>
 <p align="center">
   💻 Data Engineer • 🧠 ML Enthusiast • ☁️ Cloud & ERP Technologist
 </p>
