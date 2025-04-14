@@ -105,5 +105,5 @@
 
 ---
 
-> 🔍 *“My goal is to bridge data engineering with intelligent analytics to drive smarter business decisions.”*
+> 🔍 “*My goal is to bridge data engineering, machine learning, and statistical analysis to deliver intelligent analytics and drive impactful, data-informed business decisions.*”
 
