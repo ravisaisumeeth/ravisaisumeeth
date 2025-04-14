@@ -1,36 +1,75 @@
 ## Hi there 👋
 
-# 👋 Hello, I'm Sai Sumeeth Ravi
-
-🎓 Data Science @ University of Florida | 💼 Ex-Capgemini (Data & SAP Consultant)  
-📍 Open to relocate | 🤖 Passionate about ML, ETL, Cloud, and Automation
+<h1 align="center">Hi there, I'm Sai Sumeeth Ravi 👋</h1>
+<p align="center">
+  💻 Data Engineer • 🧠 ML Enthusiast • ☁️ Cloud & ERP Technologist
+</p>
 
 ---
 
-### 🔧 Skills & Technologies
+## 💡 About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-005C84?logo=sqlite&logoColor=white&style=flat-square)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=flat-square)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=power-bi&logoColor=black&style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=flat-square)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)
+- 🎓 Master’s in Information Systems (Data Science) @ University of Florida  
+- 💼 3+ years in Consulting & Data Engineering @ Capgemini  
+- 🛠️ Experience in ETL Pipelines, ERP Systems, ML Models & Dashboards  
+- 📊 Passionate about transforming data into decisions  
+- 🌎 Open to relocate & collaborate on meaningful data-driven projects  
 
+---
 
+## 🛠️ Tech Stack
 
-### Alternate (Safe) Method: Use Quotes for Complex Labels
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40" alt="Tableau"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
+</p>
 
-If you want to preserve formatting like “(SQL + Python)”, you can do this:
-```md
-```mermaid
-graph TD
-  A["Data Engineering"] --> B["Azure Data Factory"]
-  A --> C["Data Pipelines (SQL + Python)"]
-  A --> D["Tableau / Power BI"]
-  A --> E["GPT API + ML"]
-  A --> F["Azure & AWS"]
-  A --> G["SAP ABAP / S4 HANA"]
+- 🧱 ETL: Azure Data Factory, Azure Synapse, Python, SQLAlchemy  
+- 📊 Visualization: Tableau, Power BI, Matplotlib, Seaborn  
+- 📁 ERP: SAP ABAP, S/4 HANA, ECC → S/4 Migrations  
+- 🧠 ML/NLP: Scikit-learn, PCA, Clustering, OpenAI GPT APIs  
+- ☁️ Cloud: Azure, AWS, ADB, Oracle DB  
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Tech | Description |
+|--------|------|-------------|
+| 🔁 **Stock Price Forecasting ML App** | `Python`, `Sklearn`, `Pandas` | Predict stock movements using regression + clustering |
+| 🤖 **Survey Analyzer using GPT** | `OpenAI GPT`, `Selenium`, `Python` | Summarize large-scale survey responses in seconds |
+| 📈 **ITSM KPI Dashboard** | `Tableau`, `SQL`, `ADF` | Live dashboard tracking SLA breaches & backlog |
+| 🔄 **Data Migration Toolkit** | `SAP ABAP`, `Oracle`, `S4 HANA` | Migrated 1M+ records from ECC to S/4 with 98% accuracy |
+| 📊 **BI for Market Expansion** | `Excel`, `Tableau`, `VBA` | Dashboard suite to guide entry strategies for new markets |
+
+---
+
+## 📜 Certifications
+
+| Certificate | Authority |
+|-------------|-----------|
+| ✅ Tableau Certified Desktop Specialist | Tableau |
+| ☁️ Azure DP-900 & AZ-900 | Microsoft |
+| 🧰 Google Project Management | Coursera |
+| 🏛️ MIT Micromasters in SCM | MITx |
+| 🎯 Lean Six Sigma White Belt | GoLeanSixSigma |
+
+---
+
+## 📬 Connect With Me
+
+<p align="left">
+  <a href="mailto:saisumeethr@gmail.com"><img src="https://img.shields.io/badge/-Email-black?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sai-sumeeth-ravi-55124a165"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"/></a>
+</p>
+
+---
+
+> 🔍 *“My goal is to bridge data engineering with intelligent analytics to drive smarter business decisions.”*
 
