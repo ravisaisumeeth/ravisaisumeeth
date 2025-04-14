@@ -19,27 +19,16 @@
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=flat-square)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)
 
+
+
+<pre>
 ```mermaid
 graph TD
-  A[Data Engineering] -->|ETL | B[Azure Data Factory]
-  A -->|SQL & Python| C[Data Pipelines]
-  A -->|Dashboards| D[Tableau / Power BI]
-  A -->|AI/NLP| E[GPT API + ML]
-  A -->|Cloud| F[Azure & AWS]
-  A -->|ERP Systems| G[SAP ABAP / S4 HANA]
+  A[Data Engineering] --> B[Azure Data Factory]
+  A --> C[Data Pipelines (SQL + Python)]
+  A --> D[Tableau / Power BI]
+  A --> E[GPT API + ML]
+  A --> F[Azure & AWS]
+  A --> G[SAP ABAP / S4 HANA]
 
-
-<!--
-**ravisaisumeeth/ravisaisumeeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</pre>
