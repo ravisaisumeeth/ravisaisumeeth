@@ -21,13 +21,16 @@
 
 
 
-## 🔧 Skills Overview (Graphical)
+### Alternate (Safe) Method: Use Quotes for Complex Labels
 
+If you want to preserve formatting like “(SQL + Python)”, you can do this:
+```md
 ```mermaid
 graph TD
-  A[Data Engineering] --> B[Azure Data Factory]
-  A --> C[Data Pipelines (SQL + Python)]
-  A --> D[Tableau / Power BI]
-  A --> E[GPT API + ML]
-  A --> F[Azure & AWS]
-  A --> G[SAP ABAP / S4 HANA]
+  A["Data Engineering"] --> B["Azure Data Factory"]
+  A --> C["Data Pipelines (SQL + Python)"]
+  A --> D["Tableau / Power BI"]
+  A --> E["GPT API + ML"]
+  A --> F["Azure & AWS"]
+  A --> G["SAP ABAP / S4 HANA"]
+
