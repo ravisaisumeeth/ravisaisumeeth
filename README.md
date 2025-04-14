@@ -70,16 +70,6 @@
 </p>
 
 
-
-
-</p>
-
-- 🧱 ETL: Azure Data Factory, Azure Synapse, Python, SQLAlchemy  
-- 📊 Visualization: Tableau, Power BI, Matplotlib, Seaborn  
-- 📁 ERP: SAP ABAP, S/4 HANA, ECC → S/4 Migrations  
-- 🧠 ML/NLP: Scikit-learn, PCA, Clustering, OpenAI GPT APIs  
-- ☁️ Cloud: Azure, AWS, ADB, Oracle DB  
-
 ---
 
 ## 🚀 Featured Projects
