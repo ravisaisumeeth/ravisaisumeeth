@@ -21,7 +21,8 @@
 
 
 
-<pre>
+## 🔧 Skills Overview (Graphical)
+
 ```mermaid
 graph TD
   A[Data Engineering] --> B[Azure Data Factory]
@@ -30,5 +31,3 @@ graph TD
   A --> E[GPT API + ML]
   A --> F[Azure & AWS]
   A --> G[SAP ABAP / S4 HANA]
-
-</pre>
