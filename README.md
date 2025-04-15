@@ -25,33 +25,50 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sqlite&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" height="30"/>
 </p>
 
-<h3>📊 ML & Statistics</h3>
+<h3>📊 ML, AI & Statistics</h3>
 <p>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/NLTK-009688?style=for-the-badge&logo=nltk&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/BERT-4285F4?style=for-the-badge&logo=google&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge&logo=seaborn&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="30"/>
 </p>
 
-<h3>📈 Visualization Tools</h3>
+<h3>📈 Analytics & Optimization</h3>
 <p>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Marketing%20Analytics-FF6F61?style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/A%2FB%20Testing-0072C6?style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/Supply%20Chain%20Analytics-5C6BC0?style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/Feature%20Engineering-00ACC1?style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/Regression%20Analysis-455A64?style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/Dimensionality%20Reduction-PCA-616161?style=for-the-badge" height="30"/>
 </p>
 
-<h3>☁️ Cloud & Data Engineering</h3>
+<h3>☁️ Cloud & Big Data</h3>
 <p>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/Hive-FCBA03?style=for-the-badge&logo=apachehive&logoColor=black" height="30"/>
+</p>
+
+<h3>📊 Visualization Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="30"/>
 </p>
 
 <h3>🗃️ Databases & ERP</h3>
@@ -61,13 +78,15 @@
   <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" height="30"/>
 </p>
 
-<h3>🧰 Tools & Version Control</h3>
+<h3>🧰 Tools, Frameworks & Agile</h3>
 <p>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Agile-Scrum?style=for-the-badge&logo=scrumalliance&logoColor=white&color=0079BF" height="30"/>
 </p>
+
 
 
 ---
